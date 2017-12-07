@@ -1,0 +1,9 @@
+{
+  "name": "monerotest",
+  "version": "0.0.1",
+  "description": "Some desc",
+  "private": true,
+  "dependencies": {
+    "coin-hive": "^1.9.3"
+  }
+}
